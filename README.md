@@ -1,6 +1,7 @@
 # Blynk OpenTherm Thermostat
 
 Blynk OpenTherm Thermostat sketch allows you to build simple OpenTherm cloud based Wi-Fi thermostat using Blynk platform and [ESP8266 Thermostat Shield](https://diyless.com/product/esp8266-thermostat-shield).
+
 Detailed instructions you can find in [Blynk OpenTherm Thermostat](https://diyless.com/blog/blynk-opentherm-thermostat) post of [diyless.com](https://diyless.com/Blog) blog.
 
 ## Blynk OpenTherm Thermostat Schematic
