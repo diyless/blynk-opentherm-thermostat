@@ -5,10 +5,10 @@ Blynk OpenTherm Thermostat sketch allows you to build simple OpenTherm cloud bas
 Detailed instructions you can find in [Blynk OpenTherm Thermostat](https://diyless.com/blog/blynk-opentherm-thermostat) post of [diyless.com](https://diyless.com/Blog) blog.
 
 ## Blynk OpenTherm Thermostat Schematic
-![Blynk OpenTherm Thermostat Schematic](https://raw.githubusercontent.com/ihormelnyk/diyless/master/DIYLESS/DL.Web/wwwroot/blog/opentherm-sample/master-opentherm-shield-connection.png?token=AACDPT4N5XTOMBJ3NT2NET27Y2Q4O)
+![Blynk OpenTherm Thermostat Schematic](https://github.com/diyless/blynk-opentherm-thermostat/blob/main/img/blynk-opentherm-thermostat-sh.png)
 
 ## Blynk OpenTherm Thermostat Application
-![Blynk OpenTherm Thermostat Application](https://raw.githubusercontent.com/ihormelnyk/diyless/master/DIYLESS/DL.Web/wwwroot/blog/blynk-opentherm-thermostat/blynk-opentherm-thermostat-app.jpg?token=AACDPT3SHW4NODC52RWYRO27Y2Q5M)
+![Blynk OpenTherm Thermostat Application](https://github.com/diyless/blynk-opentherm-thermostat/blob/main/img/blynk-opentherm-thermostat-app.jpg)
 
 ## License
 Copyright (c) 2020 [DIYLESS](http://diyless.com/). Licensed under the [MIT license](/LICENSE?raw=true).
